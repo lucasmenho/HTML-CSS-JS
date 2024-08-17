@@ -18,7 +18,7 @@ body {
 }
 
 #display {
-    max-width: 768px;
+    width: 100vw;
     padding: 20px;
     font-size: 5rem;
     color: white;
